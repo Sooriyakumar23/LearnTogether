@@ -1,1 +1,0 @@
-ALTER TABLE t_student ADD PRIMARY KEY (student_id)
